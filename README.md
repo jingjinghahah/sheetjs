@@ -1,6 +1,8 @@
 # 说明
 结合SheetJS(xlsx)和xlsx-style的能力：由于xlsx中没有修改样式的能力，参照xlsx-style中修改样式的能力，对xlsx进行改造，使其支持修改样式。（为了使用方便，代码搬运工）
+
 npm包使用：npm install --save xlsx-add-style，使用方式同SheetJS(xlsx)
+
 使用文档请参考 [xlsx](https://github.com/SheetJS/sheetjs) 和 [xlsx-style](https://github.com/protobi/js-xlsx) 的文档
 
 
