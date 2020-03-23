@@ -1,8 +1,8 @@
 {
-	"name": "xlsx",
+	"name": "xlsx-add-style",
 	"version": "0.15.6",
-	"author": "sheetjs",
-	"description": "SheetJS Spreadsheet data parser and writer",
+	"author": "jingjing",
+	"description": "SheetJS基础上增加修改样式功能",
 	"keywords": [
 		"excel",
 		"xls",
